@@ -24,3 +24,17 @@
  - movie suggestions
 
 *************************************************************************************************** 
+
+- when needed to create default component in each file eg. export default XYZ,  use rfce
+# rafce ->
+ - react arrow function export compnent
+
+
+ ********
+  - STEP1 
+  created Body (we'll render all components in Body)
+  create all required components
+  use createbrwoserRouter & RouterProvider in Body component
+  create Login for
+  ***NOTE***
+  - use FORMIK to create forms of multile fields in react (external library)
